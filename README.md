@@ -19,7 +19,7 @@ This project aims to provide a comprehensive solution for monitoring the health 
 ## Project Structure
 
 ```
-├── Apple-Detection/
+├── Apple Detection/
 │   ├── apple.py
 │   ├── kaggle.json
 │   ├── leaf.py
@@ -28,7 +28,7 @@ This project aims to provide a comprehensive solution for monitoring the health 
 │   └── yolov10n.pt
    
 |   
-├── Apple-Leaf-Detection/
+├── Apple Leaf Detection/
 │   ├── leafdetect
 |   |  └── helathy_apple
 |   |  └── scaby_apple
@@ -54,9 +54,9 @@ This project aims to provide a comprehensive solution for monitoring the health 
 
 ## Usage
 
-### Apple Ripeness Detection
+### Apple Detection
 
-1. Navigate to the `Apple-Detection` folder:
+1. Navigate to the `Apple Detection` folder:
 
    ```bash
    cd Apple Detection
